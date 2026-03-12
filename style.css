@@ -46,8 +46,14 @@ body{
   margin-bottom:8px;
   text-decoration:none;
   color:#0366d6;
+  margin:3px;
 }
 
+.links{
+  display:flex;
+  flex-direction:row;
+
+}
 /* Main */
 
 .content{
